@@ -1,2 +1,3 @@
 # CABAExp
-experiments about CABA
+It's a simulation of CABA.
+
